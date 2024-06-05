@@ -1,16 +1,13 @@
-## Hi there 👋
+## ✨Bem vindo ao meu perfil✨💛
 
-<!--
-**Michelly80/Michelly80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Michelly Ayaka Kumabe.
 
-Here are some ideas to get you started:
+- Atualmente estou estudando no Alura.
+- Estou me desenvolvendo na linguaem JavaScript.
+- Utilizo esse espaço para compartilhamento do meu projeto desenvolvido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐Para entrar em contato comigo⭐
+
+00001111984232sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/Fc8c39wyPOUAAAAi/party-time-jolly.gif)
